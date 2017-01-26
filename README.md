@@ -11,4 +11,4 @@ This animated pixel has about three frames that shows that the recreated bitmoji
 
 ![frame2](frame2.png)
 
-![frame3]()frame3.png
+![frame3](frame3.png)
